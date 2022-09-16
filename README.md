@@ -6,6 +6,6 @@
  * In web.xml, map URL /age to AgeCalculatorServlet.  
  
  # Arithmetic Calculator
- *Servlet (ArithmeticCalculatorServlet.java), another JSP (arithmeticcalculator.jsp).  
+ * Servlet (ArithmeticCalculatorServlet.java), another JSP (arithmeticcalculator.jsp).  
  * Map /arithmetic to ArithmeticCalculatorServlet.
 
